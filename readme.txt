@@ -1,9 +1,9 @@
 === Tumblr Ajax ===
-Contributors: humphreyaaron
-Donate link: http://humphreyaaron.uhostall.com/#custom_part
+Contributors: humphreyaaron, Aris Blevins
+#Donate link: http://humphreyaaron.uhostall.com/#custom_part
 Tags: tumblr, AJAX, javascript, jQuery, pictures, images, widget, sidebar, display, stylish, compact
 Requires at least: 2.8
-Tested up to: 3.8
+Tested up to: 3.9.1
 Stable tag: 1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -49,6 +49,9 @@ In your theme's functions.php, you can use register_sidebar function to add a cu
 1. This screen shot description corresponds to screenshot-1.jpg. 
 
 == Changelog ==
+
+= 1.1 =
+* Resolved PHP and javascript errors causing the plugin to fail in 3.9.1, updated Tumblr API url, removed donate link for this version // AB
 
 = 1.0 =
 * Original/Initial version
