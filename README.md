@@ -3,7 +3,6 @@
 
 === Tumblr Ajax ===
 Contributors: humphreyaaron, Aris Blevins
-#Donate link: http://humphreyaaron.uhostall.com/#custom_part
 Tags: tumblr, AJAX, javascript, jQuery, pictures, images, widget, sidebar, display, stylish, compact
 Requires at least: 2.8
 Tested up to: 3.9.1
